@@ -1,0 +1,29 @@
+# Core AI/ML libraries
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.13
+openai==1.10.0
+
+# Vector database
+faiss-cpu==1.7.4
+chromadb==0.4.22
+
+# Web framework
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.0
+
+# GitHub integration
+PyGithub==2.1.1
+requests==2.31.0
+
+# Text processing
+tiktoken==0.5.2
+python-dotenv==1.0.0
+
+# Frontend
+streamlit==1.31.0
+
+# Utilities
+python-multipart==0.0.6
+aiofiles==23.2.1
